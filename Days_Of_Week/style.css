@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contain{
+    height: 100px;
+    margin-top: 5%;
+    background-color: blueviolet;
+}
+.day{
+    background-color: blueviolet;
+    font-size: 40px;
+}
+.time{
+    background-color: blueviolet;
+    position: relative;
+    font-size: 30px;
+    top: 40%;
+}
